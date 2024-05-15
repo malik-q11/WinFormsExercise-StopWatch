@@ -1,0 +1,10 @@
+C:\Users\Malik\Desktop\program c#\Timer EXP\Timer EXP\obj\Debug\Timer EXP.csproj.AssemblyReference.cache
+C:\Users\Malik\Desktop\program c#\Timer EXP\Timer EXP\obj\Debug\Timer_EXP.Form1.resources
+C:\Users\Malik\Desktop\program c#\Timer EXP\Timer EXP\obj\Debug\Timer_EXP.Properties.Resources.resources
+C:\Users\Malik\Desktop\program c#\Timer EXP\Timer EXP\obj\Debug\Timer EXP.csproj.GenerateResource.cache
+C:\Users\Malik\Desktop\program c#\Timer EXP\Timer EXP\obj\Debug\Timer EXP.csproj.CoreCompileInputs.cache
+C:\Users\Malik\Desktop\program c#\Timer EXP\Timer EXP\bin\Debug\Timer EXP.exe.config
+C:\Users\Malik\Desktop\program c#\Timer EXP\Timer EXP\bin\Debug\Timer EXP.exe
+C:\Users\Malik\Desktop\program c#\Timer EXP\Timer EXP\bin\Debug\Timer EXP.pdb
+C:\Users\Malik\Desktop\program c#\Timer EXP\Timer EXP\obj\Debug\Timer EXP.exe
+C:\Users\Malik\Desktop\program c#\Timer EXP\Timer EXP\obj\Debug\Timer EXP.pdb
